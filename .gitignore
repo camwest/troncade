@@ -1,0 +1,17 @@
+.actionScriptProperties
+.DS_Store
+.flexProperties
+.fxpProperties
+.project
+.settings
+.FlexUnitSettings/
+app/flex/FlexUnitApplication.mxml
+html-template
+log
+public/bin-debug
+public/com
+public/system
+tmp
+vendor/bundle
+vendor/flex
+*.swp
